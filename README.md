@@ -8,11 +8,14 @@ The Complete Web Developer in 2018 - Udemy | https://www.udemy.com/the-complete-
 
 The Complete Junior to Senior Web Developer Roadmap - Udemy | https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
 
+
+
 Books
 
 You Don't Know JS | https://github.com/getify/You-Dont-Know-JS
 
 Eloquent JavaScript | https://eloquentjavascript.net/
+
 
 
 Company Projects 
